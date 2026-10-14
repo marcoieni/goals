@@ -51,7 +51,6 @@ Once the IaC setup is simplified, we want to automate deployments and run them f
 
 We want to keep this goal small and achievable. Simplifying the setup first lets us automate later with less effort.
 
-[rust-lang/simpleinfra#962]: https://github.com/rust-lang/simpleinfra/issues/962
 [simpleinfra]: https://github.com/rust-lang/simpleinfra
 [#t-infra]: https://rust-lang.zulipchat.com/#narrow/channel/242791-t-infra
 [infra admins]: https://github.com/rust-lang/team/blob/main/teams/infra-admins.toml
